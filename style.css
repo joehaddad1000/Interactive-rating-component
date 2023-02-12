@@ -38,6 +38,18 @@ body {
   border-radius: 11.25rem;
   padding: .7rem;
 }
+
+.hdwdTxt {
+  font-size: 1.75rem;
+}
+
+.txt {
+  color: var(--Light-Grey);
+  font-size: 1rem;
+}
+
+
+
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
